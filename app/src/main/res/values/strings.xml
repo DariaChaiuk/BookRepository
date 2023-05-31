@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Книги</string>
+    <string name="book_name">Книга</string>
+    <string name="book_name_hint">Назва книги</string>
+    <string name="book_author">Автор:</string>
+    <string name="book_author_hint">Автор книги</string>
+
+    <string name="submit_text">Додати книгу</string>
+    <string name="open_text">Відкрити список</string>
+    <string name="default_text">Текст за замовчуванням</string>
+    <string name="image_about">Логотип</string>
+    <string name="tv_text">&#8942;</string>
+
+    <string name="edit_text">Змінити</string>
+    <string name="remove_text">Видалити</string>
+    <string name="update_text">Оновити</string>
+    <string name="back_text">Повернутися на головну</string>
+</resources>
